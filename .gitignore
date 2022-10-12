@@ -1,6 +1,5 @@
 *.bat
 *.sln
-*.uproject
 *.DS_Store
 .svn
 .vs
